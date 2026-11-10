@@ -9,13 +9,14 @@ magnetic field and the Earth's atmosphere. When the Sun's activity affects the E
 Birkeland currents that relay the effects to the ground, where the impacts can be felt on
 ground-based infrastructure.
 
-Prior to joining Northumbria University in 2022, I was at the University of Southampton from
-2015–2022, during which time I worked on Birkeland currents as well as working on substorms and
-Northward IMF dynamics. I obtained my PhD and first-class MPhys at the University of Leicester
-between 2007–2015.
+I currently serve on the Space Academic Network (SPAN) and I am the deputy chair of the SPAN Space
+Exploration Working Group (SSEWG). I am the SPAN liaison to the Space Exploration Advisory Committee
+(SEAC). I served on MIST Council in 2015--21 and I was Chair in 2019--21. I also have extensive public 
+engagement experience as PI of the Southampton Planeterrella and I am on the STFC PEER Forum review panel.
 
-In my other endeavours, I have extensive public engagement experience as PI of the Southampton
-Planeterrella. I was Chair of MIST Council in 2019–21, and I am on the STFC PEER Forum review panel.
+I joined Northumbria University in 2022. I was at the University of Southampton from
+2015–2022, during which time I worked on Birkeland currents as well as working on substorms and
+Northward IMF dynamics. I obtained my PhD and MPhys at the University of Leicester in 2007--2015.
 
 [If you'd like to contact me you can email me](mailto:work@johncoxon.co.uk), or visit 
 [my staff page on Northumbria University’s 
