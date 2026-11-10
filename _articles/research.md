@@ -1,5 +1,5 @@
 ---
-title: Papers
+title: Research
 order: 3
 ---
 
