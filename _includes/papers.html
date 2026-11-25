@@ -11,7 +11,7 @@
 {%- assign remaining = papers.size -%}
 {%- assign years = papers | group_by: "year" | sort: "name" | reverse -%}
 
-<h2>Peer-reviewed</h2>
+<h2>Peer-reviewed papers</h2>
 {%- for group in years %}
 <h3>{{ group.name }}</h3>
 <ol reversed start="{{ remaining }}">

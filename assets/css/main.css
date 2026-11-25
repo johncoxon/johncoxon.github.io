@@ -755,6 +755,10 @@ input, select, textarea {
                     padding-top: 0;
                 }
 
+	li > ul, li > ol {
+		margin-bottom: 0;
+	}
+
     dl {
         margin: 0 0 2rem 0;
     }
